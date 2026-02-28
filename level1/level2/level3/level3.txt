@@ -1,4 +1,0 @@
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam dignissim, tortor in mollis interdum, nulla purus rhoncus urna, ac placerat urna ex sed lectus. Donec ac mauris scelerisque, 
-pellentesque sapien nec, faucibus diam. Duis iaculis, massa vitae iaculis gravida, orci elit vestibulum mi, at luctus sem libero non nibh. In a suscipit mauris. Sed bibendum a odio quis blandit. Nulla facilisi. Proin in nunc 
-id arcu pulvinar tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in orci viverra lacus imperdiet ullamcorper eget at elit. Fusce ac leo fermentum, commodo metus vel, congue neque. Integer cursus 
-fermentum odio ac hendrerit. Vivamus congue libero lorem, vel blandit ex rutrum pellentesque. Fusce nibh neque, viverra vulputate urna et, commodo ullamcorper eros.
